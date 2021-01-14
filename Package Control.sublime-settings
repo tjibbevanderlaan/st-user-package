@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"DocBlockr",
+		"HTML-CSS-JS Prettify",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-eslint",
+		"SublimeLinter-pylint"
+	]
+}
